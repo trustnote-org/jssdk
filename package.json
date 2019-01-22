@@ -1,0 +1,20 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitcore-lib": "^0.16.0",
+    "bitcore-mnemonic": "^1.7.0",
+    "nstore": "^0.5.2",
+    "request": "^2.88.0",
+    "secp256k1": "^3.6.1",
+    "thirty-two": "^1.0.2",
+    "ws": "^6.1.2"
+  }
+}
